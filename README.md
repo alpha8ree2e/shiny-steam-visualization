@@ -25,8 +25,3 @@ We chose to create this app because gaming is a growing industry, and understand
 
 ## Why This App?
 Gaming is an ever-growing industry, and understanding data-driven insights can lead to better decision-making for developers, marketers, and even players. Our app offers a comprehensive way to visualize and explore Steam's rich dataset, highlighting key patterns and trends in game genres, pricing, publishers, and reviews.
-
-## How to Run
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/your-username/steam-games-analysis.git
