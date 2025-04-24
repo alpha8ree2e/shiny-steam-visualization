@@ -1,5 +1,5 @@
 # Steam Games Analysis Shiny App
-
+https://czworld4every1.shinyapps.io/Steam/
 ## Download the csv file
 You can download the dataset from the website below:
 https://www.kaggle.com/code/maxhaustov/steam-games-eda-with-r
